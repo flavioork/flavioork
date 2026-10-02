@@ -1,3 +1,7 @@
+github-readme-stats
+
+github-readme-streak-stats
+
 # Hi, I'm Thiago Flávio 👋
 
 I am a Python Developer specializing in **Automation and AI integration**. I focus on building practical tools that optimize operational efficiency and solve real-world financial and data challenges.
